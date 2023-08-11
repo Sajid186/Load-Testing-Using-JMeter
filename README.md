@@ -2,10 +2,10 @@
 This repository contains the results of load testing conducted on Dhaka Snob.com using Apache JMeter, a powerful open-source tool for performance and load testing. The primary objective was to assess the website's performance under different load conditions. The test plan, summary report, and supporting files are provided to facilitate analysis and insights.
 
 # Load Testing Summary
-Test Setup
-Test Plan: DhakaSnob.jmx
-Output Log: report.csv
-Results Dashboard: results/index.html
+Test Setup-
+->Test Plan: DhakaSnob.jmx
+->Output Log: report.csv
+->Results Dashboard: results/index.html
 
 # How to View the Results
 1.Download the report.csv file.
