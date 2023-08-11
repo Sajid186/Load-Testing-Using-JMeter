@@ -5,7 +5,7 @@ This repository contains the results of load testing conducted on Dhaka Snob.com
 Test Setup-
 ->Test Plan: DhakaSnob.jmx
 ->Output Log: report.csv
-->Results Dashboard: results/index.html
+->Results Dashboard: index.html
 
 # How to View the Results
 1.Download the report.csv file.
@@ -13,7 +13,7 @@ Test Setup-
 To view the graphical results, follow these steps:
 Download the full results folder: results
 Open a web browser.
-Navigate to the local index.html file by opening the following path: results/index.html.
+Navigate to the index.html file
 
 # Notes
 This repository aims to provide transparency and insights into the load testing process for Dhaka Snob.com. The summary report, along with the JMeter test plan and results, can be used for performance analysis and optimization. It is a valuable resource for those interested in load testing methodologies, JMeter usage, and understanding the performance characteristics of web applications.
