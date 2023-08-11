@@ -1,7 +1,4 @@
 # Load-Testing-Using-JMeter
-This repository contains the results of load testing conducted on Dhaka Snob.com (link: https://www.dhakasnob.com/ ) using Apache JMeter, a powerful open-source tool for performance and load testing. The primary objective was to assess the website's performance under different load conditions. The test plan, summary report, and supporting files are provided to facilitate analysis and insights.
-
-# Load Testing Report for Dhaka Snob.com
 This repository contains the results of load testing conducted on Dhaka Snob.com using Apache JMeter, a powerful open-source tool for performance and load testing. The primary objective was to assess the website's performance under different load conditions. The test plan, summary report, and supporting files are provided to facilitate analysis and insights.
 
 # Load Testing Summary
