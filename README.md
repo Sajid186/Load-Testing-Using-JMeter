@@ -15,6 +15,9 @@ Download the full results folder: results
 Open a web browser.
 Navigate to the index.html file
 
+# Commands Used for Generating Report
+>jmeter -n -t "E:\JMeter\DhakaSnob.jmx" -l "E:\JMeter\report.csv" -e -o "E:JMeter\results"
+
 # Notes
 This repository aims to provide transparency and insights into the load testing process for Dhaka Snob.com. The summary report, along with the JMeter test plan and results, can be used for performance analysis and optimization. It is a valuable resource for those interested in load testing methodologies, JMeter usage, and understanding the performance characteristics of web applications.
 
